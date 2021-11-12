@@ -1,0 +1,7 @@
+ArduinoJson by benoit blanchon
+
+
+ticker by Stefan Staub
+
+
+Dht11 and dependencies by adafurit industries
