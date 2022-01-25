@@ -31,6 +31,8 @@
 
 #define TAG "SDCARDS"
 
+void add_data_sd_card();
+
 extern "C" void app_main();
 
 void app_main()
@@ -114,6 +116,8 @@ void app_main()
     // Card has been initialized, print its properties
     sdmmc_card_print_info(stdout, card);
 
+    add_data_sd_card();
+
     struct dirent *entry;
     DIR *dp;
     dp = opendir("/sdcard");
@@ -141,4 +145,18 @@ void app_main()
             std::cout << line << "\n";
         }
     }
+}
+
+
+
+void add_data_sd_card(){
+    std::string path = "/sdcard/";
+    std::string fullpath;
+    std::string data = "Hello World";
+    std::ofstream file;
+    std::string filename = "test.txt";
+    fullpath = path + filename;
+    file.open(fullpath, std::ios::out | std::ios::app);
+    file << data<<"\n";
+    file.close();
 }
