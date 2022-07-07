@@ -1,0 +1,292 @@
+[
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-g++.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmp370w0roq.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\Esp.cpp"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-g++.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmpm6ok7_0a.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\FirmwareMSC.cpp"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-g++.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmp_xtpmnis.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\FunctionalInterrupt.cpp"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-g++.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmpcf8h53on.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\HWCDC.cpp"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-g++.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmp4e4f7fu8.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\HardwareSerial.cpp"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-g++.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmpbdzaxiu2.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\IPAddress.cpp"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-g++.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmpll7j5jl1.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\IPv6Address.cpp"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-g++.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmp25kbjyid.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\MD5Builder.cpp"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-g++.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmp3l7yzg6e.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\Print.cpp"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-g++.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmp_acr53qm.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\Stream.cpp"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-g++.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmpzqj2lsgb.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\StreamString.cpp"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-g++.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmp09g9q2e2.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\Tone.cpp"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-g++.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmpjs8r3jn1.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\USB.cpp"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-g++.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmpytiid6se.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\USBCDC.cpp"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-g++.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmpk9_qqubu.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\USBMSC.cpp"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-g++.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmpzuvngaup.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\WMath.cpp"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-g++.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmpb5cit5js.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\WString.cpp"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-g++.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmpm6qcapr_.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\base64.cpp"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-g++.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmp9ny3lsmf.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\cbuf.cpp"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-gcc.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmp_llmd7aw.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\esp32-hal-adc.c"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-gcc.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmpiwj6arlm.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\esp32-hal-bt.c"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-gcc.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmpboagzvtr.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\esp32-hal-cpu.c"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-gcc.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmpte1gwore.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\esp32-hal-dac.c"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-gcc.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmp7xksgh1_.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\esp32-hal-gpio.c"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-gcc.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmp2pbzi_8o.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\esp32-hal-i2c-slave.c"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-gcc.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmpc_2cum5k.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\esp32-hal-i2c.c"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-gcc.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmp1arkjn08.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\esp32-hal-ledc.c"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-gcc.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmpelhh1aoh.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\esp32-hal-matrix.c"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-gcc.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmpjmz0c0r4.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\esp32-hal-misc.c"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-gcc.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmp17vrnllk.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\esp32-hal-psram.c"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-gcc.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmpd974417a.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\esp32-hal-rmt.c"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-gcc.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmp8awqpb3a.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\esp32-hal-sigmadelta.c"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-gcc.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmp5utj8hds.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\esp32-hal-spi.c"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-gcc.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmpd7diyuww.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\esp32-hal-time.c"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-gcc.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmpfobn_a7u.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\esp32-hal-timer.c"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-gcc.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmpeyl5m909.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\esp32-hal-tinyusb.c"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-gcc.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmpf1hfi3yd.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\esp32-hal-touch.c"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-gcc.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmps2vzurov.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\esp32-hal-uart.c"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-gcc.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmp5smpc581.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\firmware_msc_fat.c"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-gcc.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmpuyaq0hc1.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\libb64\\cdecode.c"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-gcc.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmpmc6wo40n.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\libb64\\cencode.c"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-g++.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmpig4qb8im.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\main.cpp"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-gcc.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmplb2gqb0f.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\stdlib_noniso.c"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-gcc.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmpw26ickj6.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\wiring_pulse.c"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-gcc.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmpoufjdc4k.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\wiring_shift.c"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-g++.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmp2ug9d74c.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\libraries\\Wire\\src\\Wire.cpp"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-g++.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmpglcvyqha.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "C:\\Users\\programmer\\.platformio\\packages\\framework-arduinoespressif32\\libraries\\SPI\\src\\SPI.cpp"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-g++.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmpjsnexk9d.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\libdeps\\esp32doit-devkit-v1\\Adafruit BusIO\\Adafruit_BusIO_Register.cpp"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-g++.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmpaei6g7nc.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\libdeps\\esp32doit-devkit-v1\\Adafruit BusIO\\Adafruit_I2CDevice.cpp"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-g++.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmpu8u6c0iv.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\libdeps\\esp32doit-devkit-v1\\Adafruit BusIO\\Adafruit_SPIDevice.cpp"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-g++.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmpa_4gwfcv.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\libdeps\\esp32doit-devkit-v1\\RTClib\\src\\RTC_DS1307.cpp"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-g++.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmpj3wp_cra.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\libdeps\\esp32doit-devkit-v1\\RTClib\\src\\RTC_DS3231.cpp"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-g++.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmpfdw_tfpu.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\libdeps\\esp32doit-devkit-v1\\RTClib\\src\\RTC_Micros.cpp"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-g++.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmphsb0vcur.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\libdeps\\esp32doit-devkit-v1\\RTClib\\src\\RTC_Millis.cpp"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-g++.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmpy3gv11t4.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\libdeps\\esp32doit-devkit-v1\\RTClib\\src\\RTC_PCF8523.cpp"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-g++.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmpbyieorzy.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\libdeps\\esp32doit-devkit-v1\\RTClib\\src\\RTC_PCF8563.cpp"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-g++.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmpqqs1n1x0.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\libdeps\\esp32doit-devkit-v1\\RTClib\\src\\RTClib.cpp"
+    },
+    {
+        "command": "C:\\Users\\programmer\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-g++.exe @D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\.pio\\build\\esp32doit-devkit-v1\\tmp3bu6nxob.tmp",
+        "directory": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR",
+        "file": "D:\\IOTCode\\public\\Arduino\\freeRtos\\ISR\\src\\main.cpp"
+    }
+]
