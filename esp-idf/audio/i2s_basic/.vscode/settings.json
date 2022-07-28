@@ -1,0 +1,7 @@
+{
+    "idf.port": "/dev/ttyUSB0",
+    "files.associations": {
+        "i2s.h": "c"
+    },
+    "idf.adapterTargetName": "esp32"
+}
