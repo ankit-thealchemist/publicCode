@@ -104,6 +104,10 @@ int main(int argc, char *argv[])
         if (z < 0)
             bail("recvfrom(2)");
 
+        printf("Client from %s port %u;\n",
+               inet_ntoa(adr_clnt.sin_addr),
+               (unsigned)ntohs(adr_clnt.sin_port));
+
         /*
          * Process the request:
          */
