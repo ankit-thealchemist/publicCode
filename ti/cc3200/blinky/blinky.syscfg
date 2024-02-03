@@ -1,0 +1,25 @@
+/**
+ * These arguments were used when this file was generated. They will be automatically applied on subsequent loads
+ * via the GUI or CLI. Run CLI with '--help' for additional information on how to override these arguments.
+ * @cliArgs --board "/ti/boards/CC3220S_LAUNCHXL" --rtos "nortos" --product "simplelink_cc32xx_sdk@7.10.00.13"
+ * @versions {"tool":"1.19.0+3426"}
+ */
+
+/**
+ * Import the modules used in this configuration.
+ */
+const LED  = scripting.addModule("/ti/drivers/apps/LED", {}, false);
+const LED1 = LED.addInstance();
+
+/**
+ * Write custom configuration values to the imported modules.
+ */
+LED1.$name     = "CONFIG_LED_0";
+LED1.$hardware = system.deviceData.board.components.LED_YELLOW;
+
+/**
+ * Pinmux solution for unlocked pins/peripherals. This ensures that minor changes to the automatic solver in a future
+ * version of the tool will not impact the pinmux you originally saw.  These lines can be completely deleted in order to
+ * re-solve from scratch.
+ */
+LED1.ledPin.$suggestSolution = "boosterpack.9";

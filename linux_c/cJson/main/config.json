@@ -1,0 +1,19 @@
+{
+    "development": {
+        "WS_URL": "wss://ocpp-uat.hiev.network/ocpp/",
+        "chargePointID": "ELTST7401",
+        "chargePointProfile": {
+            "chargePointVendor": "Elocity",
+            "chargePointModel": "HIEV-v4-J1772",
+            "chargePointSerialNumber": "ELTST7401",
+            "chargeBoxSerialNumber": "",
+            "firmwareVersion": "1.0.0",
+            "iccid": "",
+            "imsi": "",
+            "meterSerialNumber": "",
+            "meterType": "Accuenergy"
+        }
+    },
+    "production": {},
+    "testing": {}
+}
