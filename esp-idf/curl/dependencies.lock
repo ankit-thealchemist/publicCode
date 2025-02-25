@@ -1,0 +1,18 @@
+dependencies:
+  idf:
+    source:
+      type: idf
+    version: 5.3.2
+  skuodi/libssh2_esp:
+    component_hash: a65c753c7388cf47299765dc8c8a22dccdc53d1e72a2fb0cf361c1f800067a63
+    dependencies: []
+    source:
+      registry_url: https://components.espressif.com/
+      type: service
+    version: 1.0.0
+direct_dependencies:
+- idf
+- skuodi/libssh2_esp
+manifest_hash: d8b4209272b4e81a14bbef159a9fa99da51e39fb3a9a5dd92295f22e4eb5cf79
+target: esp32s3
+version: 2.0.0

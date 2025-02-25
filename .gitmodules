@@ -1,0 +1,3 @@
+[submodule "esp-idf/curl/components/curl"]
+	path = esp-idf/curl/components/curl
+	url = git@github.com:ankit-thealchemist/esp_libcurl.git
