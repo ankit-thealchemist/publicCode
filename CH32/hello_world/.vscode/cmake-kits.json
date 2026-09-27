@@ -1,0 +1,6 @@
+[
+    {
+        "name": "CH32V00x RISC-V GCC15 (WCH)",
+        "toolchainFile": "${workspaceFolder}/cmake/toolchain.cmake"
+    }
+]

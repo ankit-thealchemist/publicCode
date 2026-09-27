@@ -1,0 +1,5 @@
+{
+    "cmake.additionalKits": [
+        "${workspaceFolder}/.vscode/cmake-kits.json"
+    ]
+}

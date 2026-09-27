@@ -1,0 +1,30 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug CH32 (OpenOCD + GDB)",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/CH32_HelloWorld.elf",
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": true,
+
+            "MIMode": "gdb",
+            "miDebuggerPath": "${env:CH32_TOOLCHAIN_PATH}/bin/riscv32-wch-elf-gdb",
+
+            "debugServerPath": "${env:CH32_OPENOCD_PATH}/bin/openocd",
+            "debugServerArgs": "-f ${env:CH32_OPENOCD_PATH}/bin/wch-riscv.cfg",
+            "serverStarted": "Ready for Remote Connections",
+            "filterStderr": true,
+
+            "setupCommands": [
+                { "text": "target extended-remote :3333", "description": "connect to OpenOCD", "ignoreFailures": false },
+                { "text": "monitor reset init", "description": "initial reset", "ignoreFailures": true },
+                { "text": "monitor reset halt", "description": "reset and halt target", "ignoreFailures": true },
+                { "text": "set mem inaccessible-by-default off", "description": "allow stepping through unmapped memory", "ignoreFailures": true }
+            ],
+
+            "preLaunchTask": "flash"
+        }
+    ]
+}
